@@ -12,15 +12,15 @@ Research interest: Deep Learning and Optimization, Image Reconstruction, Compres
 
 
 ## Selected Honors
-- Hongqiao Scholarship @PKU　   2021
-- The National Scholarship @BUAA　 2020
+- Hongqiao Scholarship @PKU  2021
+- The National Scholarship @BUAA  2020
 - The Grand Prize Scholarship @BUAA  2019
-- Aixin Scholarship @BUAA      2018
+- Aixin Scholarship @BUAA  2018
 
 
 ## Selected Awards
-- Hongqiao Scholarship @PKU　   2021
-- The National Scholarship @BUAA　 2020
+- Hongqiao Scholarship @PKU  2021
+- The National Scholarship @BUAA  2020
 - May 2019, the first prize of the 29th Fengru Cup Technology Competition 
 - May 2018, the bronze prize of the 28th Fengru Cup Entrepreneurship Competition 
 - May 2017, the second prize of the National English Competition for College Students (NECCS)
