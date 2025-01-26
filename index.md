@@ -1,8 +1,7 @@
 # Jingfen Xie
 
-### Master Student
 
-#### Advised by: Prof. [‪Jian Zhang (张健）‬](https://villa.jianzhang.tech)
+#### [Google Scholar](https://xs.typicalgame.com/citations?user=FKYnbiMAAAAJ&hl=zh-CN&oi=sra)
 
 Research interest: Deep Learning and Optimization, Image Reconstruction, Compressive Sensing, Computer Vision
 
@@ -12,7 +11,7 @@ Research interest: Deep Learning and Optimization, Image Reconstruction, Compres
 
 ## Education　
 
-- 2016.09 – 2020.07, Beihang University (BUAA), B.E. Degree
+- 2016.09 – 2020.07, Beihang University (BUAA), B.E. Degree, Advised by: Prof. [‪Jian Zhang (张健）‬](https://villa.jianzhang.tech)
   - School of Computer Science and Engineering, Computer Science and Technology
 - 2020.09 – 2023.07,  Peking University (PKU), Master Student 
   - School of Electronic and Computer Engineering, Computer Applications Technology
