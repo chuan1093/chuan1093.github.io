@@ -6,12 +6,15 @@
 
 Research interest: Deep Learning and Optimization, Image Reconstruction, Compressive Sensing, Computer Vision
 
+## Work Experience
+
+- 2023.07 - now, ByteDance, Shenzhen, focus on image/video quality enhancement
 
 ## Education　
 
-- 2016–2020, Beihang University (BUAA), B.E. Degree
+- 2016.09 – 2020.07, Beihang University (BUAA), B.E. Degree
   - School of Computer Science and Engineering, Computer Science and Technology
-- 2020–2023 (For now),  Peking University (PKU), Master Student 
+- 2020.09 – 2023.07,  Peking University (PKU), Master Student 
   - School of Electronic and Computer Engineering, Computer Applications Technology
 
 
@@ -34,7 +37,7 @@ Research interest: Deep Learning and Optimization, Image Reconstruction, Compres
 
 ## Preprints and Publications
 
-- [Jingfen Xie](https://villa.jianzhang.tech/people/jingfen-xie-谢静芬/), [Jian Zhang](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2023). Less Is More Important: A Probability Density Function Guided Attention Module for Convolutional Neural Networks. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*.
+- [Jingfen Xie](https://villa.jianzhang.tech/people/jingfen-xie-谢静芬/), [Jian Zhang](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2023). [Less Is More Important: A Probability Density Function Guided Attention Module for Convolutional Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/download/25397/25169). *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*.
 - [Jingfen Xie](https://villa.jianzhang.tech/people/jingfen-xie-谢静芬/), [Jian Zhang](https://villa.jianzhang.tech/people/jian-zhang-张健/), [Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en), [Xiangyang Ji](https://www.au.tsinghua.edu.cn/info/1166/2066.htm) (2022). [PUERT: Probabilistic Under-sampling and Explicable Reconstruction Network for CS-MRI](https://ieeexplore.ieee.org/document/9764377). *IEEE Journal of Selected Topics in Signal Processing (JSTSP)*.
 - [Jian Zhang](https://villa.jianzhang.tech/people/jian-zhang-张健/), [Zhenyu Zhang](https://villa.jianzhang.tech/people/zhenyu-zhang-张振宇/), [Jingfen Xie](https://villa.jianzhang.tech/people/jingfen-xie-谢静芬/), [Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en) (2022). [High-Throughput Deep Unfolding Network for Compressive Sensing MRI](https://ieeexplore.ieee.org/document/9763318). *IEEE Journal of Selected Topics in Signal Processing (JSTSP)*.
 - [Di You\*](https://villa.jianzhang.tech/people/di-you-由迪/), [Jingfen Xie\*](https://villa.jianzhang.tech/people/jingfen-xie-谢静芬/), [Jian Zhang](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2021). [ISTA-Net++: Flexible Deep Unfolding Network for Compressive Sensing](https://ieeexplore.ieee.org/document/9428249). *IEEE International Conference on Multimedia and Expo (ICME)*.
