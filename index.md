@@ -1,7 +1,7 @@
 # Jingfen Xie
 
 
-#### [Google Scholar](https://xs.typicalgame.com/citations?user=FKYnbiMAAAAJ&hl=zh-CN&oi=sra)
+#### [Google Scholar]([https://xs.typicalgame.com/citations?user=FKYnbiMAAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com.hk/citations?hl=zh-CN&user=FKYnbiMAAAAJ))
 
 Research interest: Deep Learning and Optimization, Image Reconstruction, Compressive Sensing, Computer Vision
 
